@@ -1,7 +1,7 @@
 # Sistema de Conta Bancária em Java
 
 Projeto simples em Java puro utilizando:
-- POO
+- OOP
 - Classes e objetos
 - Scanner
 - Separação em packages
